@@ -76,7 +76,7 @@
 		<meta property="se:url.authority.nacoaf" refines="#translator">http://id.loc.gov/authorities/names/n50061643</meta>
 		<meta property="role" refines="#translator" scheme="marc:relators">trl</meta>
 		<dc:contributor id="artist">George Washington Lambert</dc:contributor>
-		<meta property="file-as" refines="#artist">COVER_ARTIST_SORT</meta>
+		<meta property="file-as" refines="#artist">Lambert, George Washington</meta>
 		<meta property="se:url.encyclopedia.wikipedia" refines="#artist">https://en.wikipedia.org/wiki/George_Washington_Lambert</meta>
 		<meta property="se:url.authority.nacoaf" refines="#artist">http://id.loc.gov/rwo/agents/n97031880</meta>
 		<meta property="role" refines="#artist" scheme="marc:relators">art</meta>
@@ -92,7 +92,7 @@
 		<meta property="role" refines="#transcriber-3" scheme="marc:relators">trc</meta>
 		<dc:contributor id="producer-1">Gĩtahi John</dc:contributor>
 		<meta property="file-as" refines="#producer-1">Gĩtahi, John</meta>
-		<meta property="se:url.homepage" refines="#producer-1">https://gitahi.ngucu.org</meta>
+		<meta property="se:url.homepage" refines="#producer-1">https://gitahi.ngucu.org/</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">bkp</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">blw</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">cov</meta>
