@@ -5,5 +5,11 @@
 			<line>143</line>
 			<reason>Lint warning is erroneous</reason>
 		</ignore>
-	</file>
+    </file>
+    <file path="cover.jpg">
+        <ignore code="f-017">
+            <reason>Lint error erroneous; image resized to 2:3 proportion</reason>
+        </ignore>
+    </file>
+
 </se-lint-ignore>
